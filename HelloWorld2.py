@@ -1,1 +1,1 @@
-HelloWorld = "Hello World it's a new day"
+HelloWorld = "Hello World it's a new amazing day"
